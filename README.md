@@ -64,3 +64,4 @@ The system is packed with a wide range of features that simulate a real-world ba
 2.  Open the `ClientProject.sln` file using **Visual Studio**.
 3.  Build the solution (Build > Build Solution or press `Ctrl+Shift+B`).
 4.  Run the project (Debug > Start Without Debugging or press `Ctrl+F5`).
+5.  Write UserName User2 and Password 1234
